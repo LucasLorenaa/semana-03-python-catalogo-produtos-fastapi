@@ -81,7 +81,3 @@ README.md
 
 - FastAPI, SQLAlchemy, Pydantic, SQLite
 - Pytest para testes
-
-## 📜 Licença
-
-MIT
